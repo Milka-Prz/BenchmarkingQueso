@@ -40,8 +40,8 @@ _Procedimiento_:
 **_Nota_:** El proveedor cobra factura un día después de haber entregado el producto. 
 
 |Sucursal  |  Proveedor	| Hora de pedido |  Hora de llegada |Solicitud de pedido | ¿Quién realiza el pedido? | ¿Quién realiza el pesaje? | ¿Cual es el gramaje promedio? | Tipos |
-|--|--|--|--|--|--| --|--|--|--|
-| Centro (Victoria) |La escondida  | 7:00 a 7:30 am | 11:20 am |  Vía Telefónica| Encargada de tienda | Encargada de Tienda   | 3 a 5 Kg | Hebra, Crema, Doble crema, Fresco y cotija  |  |
+|--|--|--|--|--|--|--|--|--|
+| Centro (Victoria) |La escondida  | 7:00 a 7:30 am | 11:20 am |  Vía Telefónica| Encargada de tienda | Encargada de Tienda   | 3 a 5 Kg | Hebra, Crema, Doble crema, Fresco y cotija  |  
 | Zaragoza | La escondida |  7:00 a 7:30| 11:40  am |Vía Telefónica  | Encargada de tienda | Encargada del departamento de salchichonería   | 2 kg | Hebra, Crema, Doble crema, Fresco y cotija | 
 
 
