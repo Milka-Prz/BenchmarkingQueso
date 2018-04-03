@@ -34,15 +34,15 @@ _Procedimiento_:
 3. El proveedor lleva un tiempo aproximado de 1 a 3 hrs, para llegar a la sucursal con el pedido.
 4. El proveedor llega a la sucursal con una nota de remisión que  le da a la encargada de tienda.
 5. La encargada del departamento de salchichonería  realiza el pesaje del pedido.
-6. La encargada del departamento de salchichonería realiza una nota simple con la cifra obtenida del pesaje realizado, la cual posteriormente le hace llegar a la encargada de tienda.
+6. La encargada del departamento de salchichonería escribe en la nota de remisión del proveedor la cifra obtenida del pesaje realizado, la cual posteriormente le hace llegar a la encargada de tienda.
 7. La encargada de tienda da de alta el producto en el sistema para punto de venta.
 
 **_Nota_:** El proveedor cobra factura un día después de haber entregado el producto. 
 
 |Sucursal  |  Proveedor	| Hora de pedido |  Hora de llegada |Solicitud de pedido | ¿Quién realiza el pedido? | ¿Quién realiza el pesaje? | ¿Cual es el gramaje promedio? | Tipos |
 |--|--|--|--|--|--|--|--|--|
-| Centro (Victoria) |La escondida  | 7:00 a 7:30 am | 11:20 am |  Vía Telefónica| Encargada de tienda | Encargada de Tienda   | 3 a 5 Kg | Hebra, Crema, Doble crema, Fresco y cotija  |  
-| Zaragoza | La escondida |  7:00 a 7:30| 11:40  am |Vía Telefónica  | Encargada de tienda | Encargada del departamento de salchichonería   | 2 kg | Hebra, Crema, Doble crema, Fresco y cotija | 
+| Centro (Victoria) |La escondida  | 7:30 a 8:00 am | 11:20 am |  Vía Telefónica| Encargada de tienda | Encargada de Tienda   | 3 a 5 Kg | Queso de Hebra,Fresco, Cotija, Crema y Doble crema. |  
+| Zaragoza | La escondida |  7:30 a 8:00 am | 11:40  am |Vía Telefónica  | Encargada de tienda | Encargada del departamento de salchichonería   | 2 kg | Queso de Hebra,Fresco, Cotija, Crema y Doble crema.  | 
 
 
 
